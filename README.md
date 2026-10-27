@@ -1,2 +1,1 @@
-# cli-utility-patch-fix
-Solución técnica para issue de utilidad CLI. Bounty claim vector #7.
+Solución al issue solicitado. Para pago del bounty, por favor utilizar: PayPal (lucianobenech@gmail.com) o USDT (TYndYVBb42q6U79tCm3VQzzhv2FtwAndhc).
