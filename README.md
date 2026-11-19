@@ -1,1 +1,5 @@
-Solución al issue solicitado. Para pago del bounty, por favor utilizar: PayPal (lucianobenech@gmail.com) o USDT (TYndYVBb42q6U79tCm3VQzzhv2FtwAndhc).
+# cli-utility-patch-fix
+
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
+
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
